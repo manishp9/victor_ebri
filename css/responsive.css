@@ -1,0 +1,220 @@
+@media (max-width: 1599px) {
+    .banner-vertical-slider p {
+        font-size: 260px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .r-and-d-heading h2 span {
+        font-size: 120px;
+    }
+
+    .r-and-d-heading-span2 img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .r-and-d-inner {
+        gap: 120px;
+    }
+
+    .r-and-d-bottom p {
+        font-size: 40px;
+    }
+
+    .r-and-d-bottom-inner p {
+        font-size: 16px !important;
+    }
+
+    .banner-vertical-slider p {
+        font-size: 200px;
+    }
+       .r-and-d-heading h2 {
+                      line-height: 170px;
+                  }
+}
+
+@media (max-width: 1200px) {
+    .footer-slider-inner a {
+        font-size: 160px;
+    }
+
+    .footer-vertical-slider-box {
+        height: 225px;
+    }
+
+    .banner-vertical-slider p {
+        font-size: 170px;
+    }
+                  .r-and-d-heading h2 {
+                      line-height: 140px;
+                  }
+}
+
+@media (max-width: 992px) {
+    .footer-slider-inner a {
+        font-size: 120px;
+    }
+
+    .footer-vertical-slider-box {
+        height: 160px;
+    }
+
+    .investor-img-box {
+        height: 50vh;
+        margin-bottom: 100px;
+    }
+
+    .r-and-d-heading-span1,
+    .r-and-d-heading-span2 {
+        transform: unset !important;
+    }
+
+    .r-and-d-inner {
+        gap: 20px;
+    }
+
+    .r-and-d-heading h2 span {
+        font-size: 80px;
+    }
+
+    .r-and-d-section {
+        padding: 60px 20px;
+        min-height: 80vh;
+    }
+
+    .r-and-d-heading-span2 img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .r-and-d-heading-span2 {
+        gap: 10px;
+    }
+
+    .r-and-d-bottom p {
+        font-size: 28px;
+    }
+
+    .r-and-d-bottom-inner-btn {
+        padding-top: 50px;
+    }
+
+    .banner1-section {
+        padding: 55px 20px;
+    }
+    .banner2-heading h1{
+font-size: 120px;
+    letter-spacing: -0.04em;
+        line-height: 130px;
+    }
+        .banner-heading-h1{
+            height: unset;
+        }
+                .banner2-heading h1 span {
+                    font-size: 60px;
+                    top: -30px;
+                }
+                                   .r-and-d-heading h2 {
+                                       line-height: 85px;
+                                   }
+}
+
+@media (max-width: 768px) {
+    .footer-slider-inner a {
+        font-size: 70px;
+    }
+
+    .footer-vertical-slider-box {
+        height: 90px;
+    }
+
+    .footer-slider-inner a span {
+        font-size: 45px;
+    }
+
+    .investor-heading h2 {
+        font-size: 65px;
+    }
+
+    .investor-inner {
+        gap: 50px;
+        min-height: 60vh;
+        margin-bottom: 10px;
+    }
+        .r-and-d-heading h2 {
+            line-height: 63px;
+        }
+    .investor-img-box {
+        height: 26vh;
+        margin-bottom: 50px;
+    }
+
+    .investor-section {
+        padding-bottom: 20px;
+    }
+
+    .r-and-d-heading-span1,
+    .r-and-d-heading-span2 {
+        transform: unset !important;
+    }
+
+    .r-and-d-inner {
+        gap: 20px;
+    }
+
+    .r-and-d-heading h2 span {
+        font-size: 47px;
+    }
+
+    .r-and-d-section {
+        padding: 60px 20px;
+        min-height: 72vh;
+    }
+
+    .r-and-d-heading-span2 img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .r-and-d-heading-span2 {
+        gap: 10px;
+    }
+
+    .r-and-d-bottom p {
+        font-size: 20px;
+    }
+
+    .r-and-d-bottom-inner-btn {
+        padding-top: 50px;
+    }
+
+    .banner-vertical-slider .bannerSlider2 {
+        display: none;
+    }
+
+    .banner1-section {
+        padding: 55px 20px;
+    }
+
+    .banner-vertical-slider p {
+        font-size: 160px;
+    }
+
+    .banner-vertical-slider-box {
+        justify-content: center;
+    }
+    .banner2-heading h1{
+            font-size: 60px;
+            line-height: 50px;
+    }
+        .banner2-heading h1 span {
+            font-size: 50px;
+            top: -5px;
+        }
+                .banner-heading-h1{
+                    height: 177px;
+                }
+}
+
+@media (max-width: 576px) {}
